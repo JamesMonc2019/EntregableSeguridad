@@ -1,0 +1,7 @@
+﻿C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\VulnerableApplication.Tests\Properties\AssemblyInfo.cs
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\VulnerableApplication.Tests\Controllers\HomeControllerTest.cs
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\VulnerableApplication.Tests\App.config
+C:\DESARROLLO\CURSO WIZELINE\VulnerableApp-master\VulnerableApp-master\VulnerableApplication.Tests\packages.config
